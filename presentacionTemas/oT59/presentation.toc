@@ -1,0 +1,9 @@
+\babel@toc {spanish}{}
+\beamer@sectionintoc {1}{Estructura de un automatismo}{2}{0}{1}
+\beamer@sectionintoc {2}{El contactor}{3}{0}{2}
+\beamer@sectionintoc {3}{Relés de uso industrial}{5}{0}{3}
+\beamer@sectionintoc {4}{Protección de equipos eléctricos}{6}{0}{4}
+\beamer@sectionintoc {5}{Elementos auxiliares de mando}{7}{0}{5}
+\beamer@sectionintoc {6}{Representación simbólica de elementos}{8}{0}{6}
+\beamer@sectionintoc {7}{Función memoria}{9}{0}{7}
+\beamer@sectionintoc {8}{Circuitos característicos}{10}{0}{8}

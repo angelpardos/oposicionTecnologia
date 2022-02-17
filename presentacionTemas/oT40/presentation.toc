@@ -1,0 +1,8 @@
+\babel@toc {spanish}{}
+\beamer@sectionintoc {1}{Técnicas de mecanizado}{2}{0}{1}
+\beamer@sectionintoc {2}{Técnicas de conformación}{4}{0}{2}
+\beamer@subsectionintoc {2}{1}{Conformación por moldeo}{4}{0}{2}
+\beamer@subsectionintoc {2}{2}{Conformación por deformación}{5}{0}{2}
+\beamer@sectionintoc {3}{Técnicas de unión}{6}{0}{3}
+\beamer@subsectionintoc {3}{1}{Uniones fijas}{6}{0}{3}
+\beamer@subsectionintoc {3}{2}{Uniones desmontables}{7}{0}{3}
